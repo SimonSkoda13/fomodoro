@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**Fomodor Nexts App**
 
-## Getting Started
+Welcome to Fomodor Nexts, your simple yet effective productivity companion! Fomodor Nexts is designed to help you enhance your focus and productivity through a technique known as the Pomodoro Technique. With this app, you can track your work sessions and breaks effortlessly, ensuring optimal productivity and well-being.
 
-First, run the development server:
+### Features:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. **Focus Timer**: Start a focused work session with just a tap. The timer will count down your chosen focus duration, keeping you on track and motivated.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. **Break Timer**: After completing a focus session, Fomodor Nexts automatically starts a break timer for you. You'll rest for 1/5 of the time you spent focusing, allowing you to recharge before your next productive sprint.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### How to Use:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. **Set Your Focus Time**: Decide how long you want to focus on your task. Tap the "Start Focus" button to begin your focused work session.
 
-## Learn More
+2. **Take a Break**: Once your focus session ends, Fomodor Nexts will automatically start a break timer for you. Use this time to relax, stretch, or grab a snack.
 
-To learn more about Next.js, take a look at the following resources:
+### Feedback and Support:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+We value your feedback and are committed to continually improving Fomodor Nexts to better serve your productivity needs. If you have any questions, suggestions, or encounter any issues while using the app, please don't hesitate to reach out to our support team at support@fomodornexts.com.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you for choosing Fomodor Nexts to accompany you on your productivity journey! Happy focusing! 🚀
